@@ -1,9 +1,4 @@
-/*Programmer: Dylan Driscoll
-Class: CS 145
-Assignment: Lab 3 Letter Inventory
-Date: 2/3/2023
-
-This program will prompt the user for a string input and allow 
+/*This program will prompt the user for a string input and allow 
 the user to perform a variety of different functions */
 
 import java.util.*;
