@@ -20,9 +20,7 @@ public class LetterInventory {
       this.charArray = data.toCharArray();
       
       /*adds each char to the hashmap with a count of 0
-      if it is a letter. I know this is redundant but 
-      I'm leaving it for my record as I just learned 
-      about regex usages as I was finishing this assignment*/
+      if it is a letter.*/
       for (char c : charArray) {
          if (Character.isLetter(c)) {
             letterCount.put(c, 0); 
