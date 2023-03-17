@@ -1,9 +1,4 @@
-/*Programmer: Dylan Driscoll
-Class: CS 145
-Assignment: Lab 3 Letter Inventory
-Date: 2/3/2023*
-
-This class creates LetterInventory objects and will count thier
+/*This class creates LetterInventory objects and will count thier
 letters in ahshmap as well as perform a variety of other functions.*/
 
 
